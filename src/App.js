@@ -1,5 +1,5 @@
-import React, { useEffect } from "react";
-import { Route, Switch } from "react-router";
+import React, {useEffect} from "react";
+import {Route, Switch} from "react-router";
 import {
   AppBar,
   Toolbar,
@@ -8,18 +8,20 @@ import {
   Button,
   makeStyles,
   createMuiTheme,
-  IconButton,
+  IconButton, Link,
 } from "@material-ui/core";
-import { ThemeProvider } from "@material-ui/core/styles";
+import {ThemeProvider} from "@material-ui/core/styles";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Brightness3Icon from "@material-ui/icons/Brightness3";
 import BrightnessHighIcon from "@material-ui/icons/BrightnessHigh";
+import FavoriteIcon from '@material-ui/icons/Favorite';
+import GitHubIcon from '@material-ui/icons/GitHub';
 
 import TwitchApiService from "./service/TwitchApiService";
-import { useStore } from "./context/StoreContext";
+import {useStore} from "./context/StoreContext";
 import Home from "./views/Home";
 import AuthTwitch from "./views/Auth/Twitch";
-import { darkTheme, lightTheme } from "./themes";
+import {darkTheme, lightTheme} from "./themes";
 
 const useStyles = makeStyles((theme) => ({
   title: {
@@ -77,7 +79,7 @@ const App = () => {
     <ThemeProvider
       theme={createMuiTheme(theme === "dark" ? darkTheme : lightTheme)}
     >
-      <CssBaseline />
+      <CssBaseline/>
       <AppBar position="static" color="primary" elevation={0}>
         <Toolbar>
           <Typography
@@ -86,27 +88,36 @@ const App = () => {
             noWrap
             className={classes.title}
           >
-            Twitch VGS by Smite France
+            Twitch VGS by <Link href="https://www.smitefrance.fr/" target="_blank" style={{ color: "white" }}>Smite France</Link>
           </Typography>
           {twitchConnected && (
             <Button variant="contained" color="default" onClick={onListen}>
-              {twitchListening ? "Devenir sourd ..." : "Ecouter le tchat !"}
+              {twitchListening ? "Disable VGS sound ..." : "Enable VGS sound !"}
             </Button>
           )}
           <IconButton aria-label="theme" onClick={onSwitchTheme}>
-            {theme === "dark" ? <BrightnessHighIcon /> : <Brightness3Icon />}
+            {theme === "dark" ? <BrightnessHighIcon/> : <Brightness3Icon/>}
           </IconButton>
         </Toolbar>
       </AppBar>
-      <Container component="main" style={{ marginTop: 8 }}>
+      <Container component="main" style={{marginTop: 8}}>
         <Switch>
           <Route path="/auth/twitch">
-            <AuthTwitch />
+            <AuthTwitch/>
           </Route>
           <Route path="/">
-            <Home />
+            <Home/>
           </Route>
         </Switch>
+      </Container>
+      <Container component="footer" style={{display: 'flex'}}>
+        <Typography variant="body1">
+          Made with <FavoriteIcon style={{color: "red"}}/> by <Link href="https://github.com/evandikt"
+                                                                    target="_blank">Evandikt</Link>
+        </Typography>
+        <Typography variant="body1">
+          &nbsp;<Link href="https://github.com/evandikt/smite-france-twitch-vgs" target="_blank"><GitHubIcon/></Link>
+        </Typography>
       </Container>
     </ThemeProvider>
   );

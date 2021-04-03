@@ -155,7 +155,7 @@ const Home = () => {
   }
 
   if (!size(availableVoicePack)) {
-    return <div>Impossible de recuperer les voices packs ...</div>;
+    return <div>Impossible to get the voices packs ...</div>;
   }
 
   return (
@@ -174,7 +174,7 @@ const Home = () => {
                         <TextField
                           {...input}
                           fullWidth
-                          label="La chaine sur laquelle vous voulez écouter !"
+                          label="The channel you want to listen to !"
                         />
                       )}
                     </Field>
@@ -237,14 +237,14 @@ const Home = () => {
                       color="primary"
                       disabled={submitting || pristine}
                     >
-                      Enregistrer
+                      Save
                     </Button>
                     <Button
                       variant="contained"
                       onClick={form.reset}
                       disabled={submitting || pristine}
                     >
-                      Annuler
+                      Cancel
                     </Button>
                   </ButtonGroup>
                 </div>
