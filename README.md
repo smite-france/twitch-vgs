@@ -5,7 +5,7 @@ Suffit de te connecter, choisir la chaine twitch et ton voice-pack ( on peux ajo
 Et cliquer sur "Ecouter le tchat" en haut a droite !!
 Enjoy ❤️
 
-For @Smite_En I made a little tool to get the VGS(PC) from a twitch chat :)
+For @Smite_Fr I made a little tool to get the VGS(PC) from a twitch chat :)
 Just connect, choose the twitch channel and your voice-pack ( you can add your own voice-pack if you want :) )
 And click on "Ecouter le tchat" on the top right!!!
 Enjoy ❤️
