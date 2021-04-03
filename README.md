@@ -1,5 +1,7 @@
 ## Smite France Twitch VGS
 
+[vgs.smitefrance.fr](https://vgs.smitefrance.fr/)
+
 Pour @Smite_Fr j'ai fait un ptit tool pour avoir le VGS(PC) depuis un tchat twitch :)
 Suffit de te connecter, choisir la chaine twitch et ton voice-pack ( on peux ajouter ton propre voice-pack si tu le souhaites :) )
 Et cliquer sur "Ecouter le tchat" en haut a droite !!
