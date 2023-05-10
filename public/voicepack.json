@@ -1,242 +1,5 @@
 [
   {
-    "god": "default",
-    "image": null,
-    "skin": [
-      {
-        "name": "default",
-        "image": null,
-        "folder": "vgs_default"
-      }
-    ]
-  },
-  {
-    "god": "Achilles",
-    "image": null,
-    "skin": [
-      {
-        "name": "default",
-        "image": null,
-        "folder": "vgs_achilles_skin7"
-      },
-      {
-        "name": "skin8",
-        "image": null,
-        "folder": "vgs_achilles_skin8"
-      },
-      {
-        "name": "skin9",
-        "image": null,
-        "folder": "vgs_achilles_skin9"
-      }
-    ]
-  },
-  {
-    "god": "Agni",
-    "image": null,
-    "skin": [
-      {
-        "name": "default",
-        "image": null,
-        "folder": "vgs_agni_skin3"
-      },
-      {
-        "name": "skin4",
-        "image": null,
-        "folder": "vgs_agni_v2_skin4"
-      },
-      {
-        "name": "skin6",
-        "image": null,
-        "folder": "vgs_agni_v2_skin6"
-      },
-      {
-        "name": "skin7",
-        "image": null,
-        "folder": "vgs_agni_v2_skin7"
-      },
-      {
-        "name": "skin9",
-        "image": null,
-        "folder": "vgs_agni_v2_skin9"
-      },
-      {
-        "name": "skin10",
-        "image": null,
-        "folder": "vgs_agni_v2_skin10"
-      },
-      {
-        "name": "skin11",
-        "image": null,
-        "folder": "vgs_agni_v2_skin11"
-      },
-      {
-        "name": "skin12",
-        "image": null,
-        "folder": "vgs_agni_v2_skin12"
-      }
-    ]
-  },
-  {
-    "god": "Ah Muzen Cab",
-    "image": null,
-    "skin": [
-      {
-        "name": "default",
-        "image": null,
-        "folder": "vgs_ahmuzencab"
-      },
-      {
-        "name": "skin2",
-        "image": null,
-        "folder": "vgs_ahmuzencab_skin2"
-      },
-      {
-        "name": "skin4",
-        "image": null,
-        "folder": "vgs_ahmuzencab_skin4"
-      },
-      {
-        "name": "skin5",
-        "image": null,
-        "folder": "vgs_ahmuzencab_skin5"
-      },
-      {
-        "name": "skin6",
-        "image": null,
-        "folder": "vgs_ahmuzencab_skin6"
-      },
-      {
-        "name": "skin7",
-        "image": null,
-        "folder": "vgs_ahmuzencab_v2_skin7"
-      },
-      {
-        "name": "skin8",
-        "image": null,
-        "folder": "vgs_ahmuzencab_skin8"
-      },
-      {
-        "name": "skin9",
-        "image": null,
-        "folder": "vgs_ahmuzencab_skin9"
-      }
-    ]
-  },
-  {
-    "god": "Ah Puch",
-    "image": null,
-    "skin": [
-      {
-        "name": "default",
-        "image": null,
-        "folder": "vgs_ahpuch"
-      },
-      {
-        "name": "skin2",
-        "image": null,
-        "folder": "vgs_ahpuch_skin2"
-      },
-      {
-        "name": "skin3",
-        "image": null,
-        "folder": "vgs_ahpuch_skin3"
-      },
-      {
-        "name": "skin4",
-        "image": null,
-        "folder": "vgs_ahpuch_skin4"
-      },
-      {
-        "name": "skin5",
-        "image": null,
-        "folder": "vgs_ahpuch_skin5"
-      },
-      {
-        "name": "skin6",
-        "image": null,
-        "folder": "vgs_ahpuch_skin6"
-      },
-      {
-        "name": "skin7",
-        "image": null,
-        "folder": "vgs_ahpuch_skin7"
-      },
-      {
-        "name": "skin8",
-        "image": null,
-        "folder": "vgs_ahpuch_skin8"
-      },
-      {
-        "name": "skin9",
-        "image": null,
-        "folder": "vgs_ahpuch_skin9"
-      }
-    ]
-  },
-  {
-    "god": "Amaterasu",
-    "image": null,
-    "skin": [
-      {
-        "name": "default",
-        "image": null,
-        "folder": "vgs_amaterasu"
-      },
-      {
-        "name": "vgs_amaterasu_skin11",
-        "image": null,
-        "folder": "vgs_amaterasu_skin11"
-      },
-      {
-        "name": "vgs_amaterasu_v3_skin12",
-        "image": null,
-        "folder": "vgs_amaterasu_v3_skin12"
-      }
-    ]
-  },
-  {
-    "god": "Anhur",
-    "image": null,
-    "skin": [
-      {
-        "name": "default",
-        "image": null,
-        "folder": "vgs_anhur"
-      },
-      {
-        "name": "vgs_anhur_skin10",
-        "image": null,
-        "folder": "vgs_anhur_skin10"
-      },
-      {
-        "name": "vgs_anhur_skin4",
-        "image": null,
-        "folder": "vgs_anhur_skin4"
-      },
-      {
-        "name": "vgs_anhur_skin6",
-        "image": null,
-        "folder": "vgs_anhur_skin6"
-      },
-      {
-        "name": "vgs_anhur_skin7",
-        "image": null,
-        "folder": "vgs_anhur_skin7"
-      },
-      {
-        "name": "vgs_anhur_skin8",
-        "image": null,
-        "folder": "vgs_anhur_skin8"
-      },
-      {
-        "name": "vgs_anhur_skin9",
-        "image": null,
-        "folder": "vgs_anhur_skin9"
-      }
-    ]
-  },
-  {
     "god": "Smite France - DK",
     "folder": "VGS_SMFR",
     "image": null,
@@ -1176,7 +939,6 @@
         "vvy_eneffet.mp3",
         "vvy_classique.mp3"
       ],
-
       "VARTHUR": "varthur_greataether.mp3",
       "VBIS": "vbis_raté.mp3",
       "VBONJOUR": "vbonjour_cava.mp3",
@@ -1216,5 +978,6909 @@
       "VVOUAF": "vvouaf_ouaf.mp3",
       "VSEIYA": "vseiya_oups.mp3"
     }
+  },
+  {
+    "god": "achilles",
+    "image": null,
+    "skin": [
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_achilles_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_achilles_skin11"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_achilles_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_achilles_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_achilles_skin9"
+      }
+    ]
+  },
+  {
+    "god": "agni",
+    "image": null,
+    "skin": [
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_agni_skin3"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_agni_v2_skin10"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_agni_v2_skin11"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_agni_v2_skin12"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_agni_v2_skin13"
+      },
+      {
+        "name": "v2_skin14",
+        "image": null,
+        "folder": "vgs_agni_v2_skin14"
+      },
+      {
+        "name": "v2_skin4",
+        "image": null,
+        "folder": "vgs_agni_v2_skin4"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_agni_v2_skin6"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_agni_v2_skin7"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_agni_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "ahmuzencab",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ahmuzencab"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_ahmuzencab_skin10"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_ahmuzencab_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_ahmuzencab_skin13"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_ahmuzencab_skin2"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_ahmuzencab_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_ahmuzencab_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_ahmuzencab_skin6"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_ahmuzencab_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_ahmuzencab_skin9"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_ahmuzencab_v2_skin7"
+      },
+      {
+        "name": "v3_skin11",
+        "image": null,
+        "folder": "vgs_ahmuzencab_v3_skin11"
+      }
+    ]
+  },
+  {
+    "god": "ahpuch",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ahpuch"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_ahpuch_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_ahpuch_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_ahpuch_skin12"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_ahpuch_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_ahpuch_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_ahpuch_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_ahpuch_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_ahpuch_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_ahpuch_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_ahpuch_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_ahpuch_skin9"
+      }
+    ]
+  },
+  {
+    "god": "amaterasu",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_amaterasu"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_amaterasu_skin11"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_amaterasu_v2_skin13"
+      },
+      {
+        "name": "v3_skin12",
+        "image": null,
+        "folder": "vgs_amaterasu_v3_skin12"
+      },
+      {
+        "name": "v3_skin14",
+        "image": null,
+        "folder": "vgs_amaterasu_v3_skin14"
+      },
+      {
+        "name": "v3_skin15",
+        "image": null,
+        "folder": "vgs_amaterasu_v3_skin15"
+      },
+      {
+        "name": "v3_skin16",
+        "image": null,
+        "folder": "vgs_amaterasu_v3_skin16"
+      }
+    ]
+  },
+  {
+    "god": "anhur",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_anhur"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_anhur_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_anhur_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_anhur_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_anhur_skin13"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_anhur_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_anhur_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_anhur_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_anhur_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_anhur_skin9"
+      }
+    ]
+  },
+  {
+    "god": "anubis",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_anubis"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_anubis_skin3"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_anubis_skin7"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_anubis_v2_skin11"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_anubis_v2_skin12"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_anubis_v2_skin13"
+      },
+      {
+        "name": "v2_skin16",
+        "image": null,
+        "folder": "vgs_anubis_v2_skin16"
+      },
+      {
+        "name": "v2_skin17",
+        "image": null,
+        "folder": "vgs_anubis_v2_skin17"
+      },
+      {
+        "name": "v2_skin18",
+        "image": null,
+        "folder": "vgs_anubis_v2_skin18"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_anubis_v2_skin9"
+      },
+      {
+        "name": "v3_skin10",
+        "image": null,
+        "folder": "vgs_anubis_v3_skin10"
+      },
+      {
+        "name": "v3_skin14",
+        "image": null,
+        "folder": "vgs_anubis_v3_skin14"
+      },
+      {
+        "name": "v3_skin8",
+        "image": null,
+        "folder": "vgs_anubis_v3_skin8"
+      },
+      {
+        "name": "v4_skin15",
+        "image": null,
+        "folder": "vgs_anubis_v4_skin15"
+      },
+      {
+        "name": "v4_skin20",
+        "image": null,
+        "folder": "vgs_anubis_v4_skin20"
+      }
+    ]
+  },
+  {
+    "god": "aokuang",
+    "image": null,
+    "skin": [
+      {
+        "name": "v2",
+        "image": null,
+        "folder": "vgs_aokuang_v2"
+      },
+      {
+        "name": "v2_skin3",
+        "image": null,
+        "folder": "vgs_aokuang_v2_skin3"
+      },
+      {
+        "name": "v2_skin4",
+        "image": null,
+        "folder": "vgs_aokuang_v2_skin4"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_aokuang_v2_skin6"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_aokuang_v2_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_aokuang_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_aokuang_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "aphrodite",
+    "image": null,
+    "skin": [
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_aphrodite_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_aphrodite_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_aphrodite_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_aphrodite_skin13"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_aphrodite_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_aphrodite_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_aphrodite_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_aphrodite_skin7"
+      },
+      {
+        "name": "v2_skin14",
+        "image": null,
+        "folder": "vgs_aphrodite_v2_skin14"
+      },
+      {
+        "name": "v2_skin15",
+        "image": null,
+        "folder": "vgs_aphrodite_v2_skin15"
+      },
+      {
+        "name": "v2_skin16",
+        "image": null,
+        "folder": "vgs_aphrodite_v2_skin16"
+      },
+      {
+        "name": "v2_skin17",
+        "image": null,
+        "folder": "vgs_aphrodite_v2_skin17"
+      },
+      {
+        "name": "v2_skin18",
+        "image": null,
+        "folder": "vgs_aphrodite_v2_skin18"
+      },
+      {
+        "name": "v3_skin19",
+        "image": null,
+        "folder": "vgs_aphrodite_v3_skin19"
+      }
+    ]
+  },
+  {
+    "god": "apollo",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_apollo"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_apollo_skin10"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_apollo_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_apollo_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_apollo_skin5"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_apollo_skin9"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_apollo_v2_skin8"
+      },
+      {
+        "name": "v3_skin11",
+        "image": null,
+        "folder": "vgs_apollo_v3_skin11"
+      },
+      {
+        "name": "v4_skin14",
+        "image": null,
+        "folder": "vgs_apollo_v4_skin14"
+      }
+    ]
+  },
+  {
+    "god": "arachne",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_arachne"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_arachne_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_arachne_skin11"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_arachne_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_arachne_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_arachne_skin6"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_arachne_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_arachne_skin9"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_arachne_v2_skin7"
+      }
+    ]
+  },
+  {
+    "god": "ares",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ares"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_ares_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_ares_skin6"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_ares_skin8"
+      },
+      {
+        "name": "v2_skin5",
+        "image": null,
+        "folder": "vgs_ares_v2_skin5"
+      },
+      {
+        "name": "v3_skin10",
+        "image": null,
+        "folder": "vgs_ares_v3_skin10"
+      },
+      {
+        "name": "v4_skin11",
+        "image": null,
+        "folder": "vgs_ares_v4_skin11"
+      },
+      {
+        "name": "v4_skin12",
+        "image": null,
+        "folder": "vgs_ares_v4_skin12"
+      },
+      {
+        "name": "v4_skin14",
+        "image": null,
+        "folder": "vgs_ares_v4_skin14"
+      },
+      {
+        "name": "v4_skin16",
+        "image": null,
+        "folder": "vgs_ares_v4_skin16"
+      },
+      {
+        "name": "v4_skin17",
+        "image": null,
+        "folder": "vgs_ares_v4_skin17"
+      },
+      {
+        "name": "v4_skin18",
+        "image": null,
+        "folder": "vgs_ares_v4_skin18"
+      },
+      {
+        "name": "v4_skin19",
+        "image": null,
+        "folder": "vgs_ares_v4_skin19"
+      }
+    ]
+  },
+  {
+    "god": "artemis",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_artemis"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_artemis_skin4"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_artemis_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_artemis_skin8"
+      },
+      {
+        "name": "v2_skin5",
+        "image": null,
+        "folder": "vgs_artemis_v2_skin5"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_artemis_v2_skin9"
+      },
+      {
+        "name": "v3_skin10",
+        "image": null,
+        "folder": "vgs_artemis_v3_skin10"
+      },
+      {
+        "name": "v3_skin11",
+        "image": null,
+        "folder": "vgs_artemis_v3_skin11"
+      },
+      {
+        "name": "v3_skin12",
+        "image": null,
+        "folder": "vgs_artemis_v3_skin12"
+      },
+      {
+        "name": "v3_skin13",
+        "image": null,
+        "folder": "vgs_artemis_v3_skin13"
+      },
+      {
+        "name": "v3_skin14",
+        "image": null,
+        "folder": "vgs_artemis_v3_skin14"
+      },
+      {
+        "name": "v3_skin15",
+        "image": null,
+        "folder": "vgs_artemis_v3_skin15"
+      },
+      {
+        "name": "v3_skin16",
+        "image": null,
+        "folder": "vgs_artemis_v3_skin16"
+      },
+      {
+        "name": "v3_skin18",
+        "image": null,
+        "folder": "vgs_artemis_v3_skin18"
+      }
+    ]
+  },
+  {
+    "god": "arthur",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_arthur"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_arthur_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_arthur_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_arthur_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_arthur_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_arthur_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_arthur_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_arthur_skin9"
+      }
+    ]
+  },
+  {
+    "god": "artio",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_artio"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_artio_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_artio_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_artio_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_artio_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_artio_skin7"
+      }
+    ]
+  },
+  {
+    "god": "athena",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_athena"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_athena_skin10"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_athena_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_athena_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_athena_skin7"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_athena_skin9"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_athena_v2_skin11"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_athena_v2_skin12"
+      },
+      {
+        "name": "v2_skin15",
+        "image": null,
+        "folder": "vgs_athena_v2_skin15"
+      },
+      {
+        "name": "v3_skin16",
+        "image": null,
+        "folder": "vgs_athena_v3_skin16"
+      },
+      {
+        "name": "v3_skin17",
+        "image": null,
+        "folder": "vgs_athena_v3_skin17"
+      },
+      {
+        "name": "v3_skin18",
+        "image": null,
+        "folder": "vgs_athena_v3_skin18"
+      },
+      {
+        "name": "v3_skin22",
+        "image": null,
+        "folder": "vgs_athena_v3_skin22"
+      }
+    ]
+  },
+  {
+    "god": "atlas",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_atlas"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_atlas_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_atlas_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_atlas_skin5"
+      }
+    ]
+  },
+  {
+    "god": "awilix",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_awilix"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_awilix_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_awilix_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_awilix_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_awilix_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_awilix_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_awilix_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_awilix_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "babayaga",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_babayaga"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_babayaga_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_babayaga_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_babayaga_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_babayaga_skin6"
+      }
+    ]
+  },
+  {
+    "god": "bacchus",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_bacchus"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_bacchus_skin10"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_bacchus_skin12"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_bacchus_skin14"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_bacchus_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_bacchus_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_bacchus_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_bacchus_skin7"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_bacchus_v2_skin11"
+      },
+      {
+        "name": "v2_skin17",
+        "image": null,
+        "folder": "vgs_bacchus_v2_skin17"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_bacchus_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_bacchus_v2_skin9"
+      },
+      {
+        "name": "v3_skin16",
+        "image": null,
+        "folder": "vgs_bacchus_v3_skin16"
+      }
+    ]
+  },
+  {
+    "god": "bakasura",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_bakasura"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_bakasura_skin3"
+      },
+      {
+        "name": "v2",
+        "image": null,
+        "folder": "vgs_bakasura_v2"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_bakasura_v2_skin10"
+      },
+      {
+        "name": "v2_skin4",
+        "image": null,
+        "folder": "vgs_bakasura_v2_skin4"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_bakasura_v2_skin6"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_bakasura_v2_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_bakasura_v2_skin8"
+      },
+      {
+        "name": "v3_skin9",
+        "image": null,
+        "folder": "vgs_bakasura_v3_skin9"
+      }
+    ]
+  },
+  {
+    "god": "baronsamedi",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_baronsamedi"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_baronsamedi_skin11"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_baronsamedi_skin2"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_baronsamedi_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_baronsamedi_skin5"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_baronsamedi_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_baronsamedi_skin8"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_baronsamedi_v2_skin6"
+      },
+      {
+        "name": "v4_skin9",
+        "image": null,
+        "folder": "vgs_baronsamedi_v4_skin9"
+      }
+    ]
+  },
+  {
+    "god": "bastet",
+    "image": null,
+    "skin": [
+      {
+        "name": "v2",
+        "image": null,
+        "folder": "vgs_bastet_v2"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_bastet_v2_skin10"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_bastet_v2_skin11"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_bastet_v2_skin12"
+      },
+      {
+        "name": "v2_skin14",
+        "image": null,
+        "folder": "vgs_bastet_v2_skin14"
+      },
+      {
+        "name": "v2_skin15",
+        "image": null,
+        "folder": "vgs_bastet_v2_skin15"
+      },
+      {
+        "name": "v2_skin3",
+        "image": null,
+        "folder": "vgs_bastet_v2_skin3"
+      },
+      {
+        "name": "v2_skin4",
+        "image": null,
+        "folder": "vgs_bastet_v2_skin4"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_bastet_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_bastet_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "bellona",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_bellona"
+      },
+      {
+        "name": "skin1",
+        "image": null,
+        "folder": "vgs_bellona_skin1"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_bellona_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_bellona_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_bellona_skin13"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_bellona_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_bellona_skin5"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_bellona_skin7"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_bellona_skin9"
+      },
+      {
+        "name": "v2_skin14",
+        "image": null,
+        "folder": "vgs_bellona_v2_skin14"
+      },
+      {
+        "name": "v2_skin15",
+        "image": null,
+        "folder": "vgs_bellona_v2_skin15"
+      },
+      {
+        "name": "v2_skin16",
+        "image": null,
+        "folder": "vgs_bellona_v2_skin16"
+      },
+      {
+        "name": "v2_skin17",
+        "image": null,
+        "folder": "vgs_bellona_v2_skin17"
+      },
+      {
+        "name": "v2_skin18",
+        "image": null,
+        "folder": "vgs_bellona_v2_skin18"
+      }
+    ]
+  },
+  {
+    "god": "cabrakan",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_cabrakan"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_cabrakan_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_cabrakan_skin11"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_cabrakan_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_cabrakan_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_cabrakan_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_cabrakan_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_cabrakan_skin6"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_cabrakan_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_cabrakan_skin9"
+      }
+    ]
+  },
+  {
+    "god": "camazotz",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_camazotz"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_camazotz_skin2"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_camazotz_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_camazotz_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_camazotz_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_camazotz_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_camazotz_skin9"
+      }
+    ]
+  },
+  {
+    "god": "cerberus",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_cerberus"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_cerberus_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_cerberus_skin12"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_cerberus_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_cerberus_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_cerberus_skin5"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_cerberus_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_cerberus_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_cerberus_skin9"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_cerberus_v2_skin6"
+      }
+    ]
+  },
+  {
+    "god": "cernunnos",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_cernunnos"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_cernunnos_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_cernunnos_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_cernunnos_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_cernunnos_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_cernunnos_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_cernunnos_skin15"
+      },
+      {
+        "name": "skin16",
+        "image": null,
+        "folder": "vgs_cernunnos_skin16"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_cernunnos_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_cernunnos_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_cernunnos_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_cernunnos_skin7"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_cernunnos_skin9"
+      }
+    ]
+  },
+  {
+    "god": "chaac",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_chaac"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_chaac_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_chaac_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_chaac_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_chaac_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_chaac_skin14"
+      },
+      {
+        "name": "skin16",
+        "image": null,
+        "folder": "vgs_chaac_skin16"
+      },
+      {
+        "name": "skin18",
+        "image": null,
+        "folder": "vgs_chaac_skin18"
+      },
+      {
+        "name": "skin19",
+        "image": null,
+        "folder": "vgs_chaac_skin19"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_chaac_skin2"
+      },
+      {
+        "name": "skin20",
+        "image": null,
+        "folder": "vgs_chaac_skin20"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_chaac_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_chaac_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_chaac_skin9"
+      },
+      {
+        "name": "v2_skin17",
+        "image": null,
+        "folder": "vgs_chaac_v2_skin17"
+      }
+    ]
+  },
+  {
+    "god": "change",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_change"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_change_skin2"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_change_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_change_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_change_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_change_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_change_skin9"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_change_v2_skin10"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_change_v2_skin12"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_change_v2_skin13"
+      },
+      {
+        "name": "v2_skin14",
+        "image": null,
+        "folder": "vgs_change_v2_skin14"
+      },
+      {
+        "name": "v2_skin15",
+        "image": null,
+        "folder": "vgs_change_v2_skin15"
+      },
+      {
+        "name": "v2_skin16",
+        "image": null,
+        "folder": "vgs_change_v2_skin16"
+      }
+    ]
+  },
+  {
+    "god": "charybdis",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_charybdis"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_charybdis_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_charybdis_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_charybdis_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_charybdis_skin7"
+      }
+    ]
+  },
+  {
+    "god": "chiron",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_chiron"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_chiron_skin10"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_chiron_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_chiron_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_chiron_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_chiron_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_chiron_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_chiron_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_chiron_skin9"
+      }
+    ]
+  },
+  {
+    "god": "chronos",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_chronos"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_chronos_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_chronos_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_chronos_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_chronos_skin5"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_chronos_v2_skin6"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_chronos_v2_skin7"
+      },
+      {
+        "name": "v3_skin8",
+        "image": null,
+        "folder": "vgs_chronos_v3_skin8"
+      }
+    ]
+  },
+  {
+    "god": "cliodhna",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_cliodhna"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_cliodhna_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_cliodhna_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_cliodhna_skin5"
+      }
+    ]
+  },
+  {
+    "god": "cuchulainn",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_cuchulainn"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_cuchulainn_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_cuchulainn_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_cuchulainn_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_cuchulainn_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_cuchulainn_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_cuchulainn_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_cuchulainn_skin9"
+      }
+    ]
+  },
+  {
+    "god": "cupid",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_cupid"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_cupid_skin8"
+      },
+      {
+        "name": "v2_skin5",
+        "image": null,
+        "folder": "vgs_cupid_v2_skin5"
+      },
+      {
+        "name": "v3_skin4",
+        "image": null,
+        "folder": "vgs_cupid_v3_skin4"
+      },
+      {
+        "name": "v3_skin6",
+        "image": null,
+        "folder": "vgs_cupid_v3_skin6"
+      },
+      {
+        "name": "v3_skin9",
+        "image": null,
+        "folder": "vgs_cupid_v3_skin9"
+      },
+      {
+        "name": "v4_skin11",
+        "image": null,
+        "folder": "vgs_cupid_v4_skin11"
+      },
+      {
+        "name": "v4_skin13",
+        "image": null,
+        "folder": "vgs_cupid_v4_skin13"
+      },
+      {
+        "name": "v4_skin14",
+        "image": null,
+        "folder": "vgs_cupid_v4_skin14"
+      },
+      {
+        "name": "v4_skin7",
+        "image": null,
+        "folder": "vgs_cupid_v4_skin7"
+      },
+      {
+        "name": "v5_skin15",
+        "image": null,
+        "folder": "vgs_cupid_v5_skin15"
+      },
+      {
+        "name": "v6_skin12",
+        "image": null,
+        "folder": "vgs_cupid_v6_skin12"
+      },
+      {
+        "name": "v7_skin17",
+        "image": null,
+        "folder": "vgs_cupid_v7_skin17"
+      }
+    ]
+  },
+  {
+    "god": "daji",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_daji"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_daji_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_daji_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_daji_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_daji_skin13"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_daji_skin15"
+      },
+      {
+        "name": "skin16",
+        "image": null,
+        "folder": "vgs_daji_skin16"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_daji_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_daji_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_daji_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_daji_skin7"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_daji_skin9"
+      }
+    ]
+  },
+  {
+    "god": "danzaburou",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_danzaburou"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_danzaburou_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_danzaburou_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_danzaburou_skin5"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_danzaburou_skin7"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_danzaburou_v2_skin6"
+      }
+    ]
+  },
+  {
+    "god": "default",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_default"
+      }
+    ]
+  },
+  {
+    "god": "depthzy",
+    "image": null,
+    "skin": [
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_depthzy_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_depthzy_skin5"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_depthzy_skin7"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_depthzy_v2_skin6"
+      }
+    ]
+  },
+  {
+    "god": "discordia",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_discordia"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_discordia_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_discordia_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_discordia_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_discordia_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_discordia_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_discordia_v2_skin8"
+      },
+      {
+        "name": "v3_skin9",
+        "image": null,
+        "folder": "vgs_discordia_v3_skin9"
+      },
+      {
+        "name": "v4_skin10",
+        "image": null,
+        "folder": "vgs_discordia_v4_skin10"
+      },
+      {
+        "name": "v4_skin11",
+        "image": null,
+        "folder": "vgs_discordia_v4_skin11"
+      }
+    ]
+  },
+  {
+    "god": "erlangshen",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_erlangshen"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_erlangshen_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_erlangshen_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_erlangshen_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_erlangshen_skin5"
+      }
+    ]
+  },
+  {
+    "god": "eset",
+    "image": null,
+    "skin": [
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_eset_v2_skin11"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_eset_v2_skin12"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_eset_v2_skin13"
+      }
+    ]
+  },
+  {
+    "god": "fafnir",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_fafnir"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_fafnir_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_fafnir_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_fafnir_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_fafnir_skin5"
+      }
+    ]
+  },
+  {
+    "god": "fenrir",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_fenrir"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_fenrir_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_fenrir_skin11"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_fenrir_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_fenrir_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_fenrir_skin15"
+      },
+      {
+        "name": "skin16",
+        "image": null,
+        "folder": "vgs_fenrir_skin16"
+      },
+      {
+        "name": "skin18",
+        "image": null,
+        "folder": "vgs_fenrir_skin18"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_fenrir_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_fenrir_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_fenrir_skin5"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_fenrir_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_fenrir_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_fenrir_v2_skin9"
+      },
+      {
+        "name": "v3_skin12",
+        "image": null,
+        "folder": "vgs_fenrir_v3_skin12"
+      },
+      {
+        "name": "v4_skin17",
+        "image": null,
+        "folder": "vgs_fenrir_v4_skin17"
+      }
+    ]
+  },
+  {
+    "god": "freya",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_freya"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_freya_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_freya_skin5"
+      },
+      {
+        "name": "v3_skin10",
+        "image": null,
+        "folder": "vgs_freya_v3_skin10"
+      },
+      {
+        "name": "v3_skin6",
+        "image": null,
+        "folder": "vgs_freya_v3_skin6"
+      },
+      {
+        "name": "v3_skin7",
+        "image": null,
+        "folder": "vgs_freya_v3_skin7"
+      },
+      {
+        "name": "v3_skin8",
+        "image": null,
+        "folder": "vgs_freya_v3_skin8"
+      },
+      {
+        "name": "v3_skin9",
+        "image": null,
+        "folder": "vgs_freya_v3_skin9"
+      },
+      {
+        "name": "v4_skin11",
+        "image": null,
+        "folder": "vgs_freya_v4_skin11"
+      },
+      {
+        "name": "v5_skin12",
+        "image": null,
+        "folder": "vgs_freya_v5_skin12"
+      }
+    ]
+  },
+  {
+    "god": "ganesha",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ganesha"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_ganesha_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_ganesha_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_ganesha_skin5"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_ganesha_skin7"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_ganesha_v2_skin6"
+      },
+      {
+        "name": "v3_skin10",
+        "image": null,
+        "folder": "vgs_ganesha_v3_skin10"
+      },
+      {
+        "name": "v3_skin11",
+        "image": null,
+        "folder": "vgs_ganesha_v3_skin11"
+      },
+      {
+        "name": "v3_skin12",
+        "image": null,
+        "folder": "vgs_ganesha_v3_skin12"
+      },
+      {
+        "name": "v3_skin9",
+        "image": null,
+        "folder": "vgs_ganesha_v3_skin9"
+      }
+    ]
+  },
+  {
+    "god": "geb",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_geb"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_geb_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_geb_skin11"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_geb_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_geb_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_geb_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_geb_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_geb_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_geb_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_geb_v2_skin8"
+      }
+    ]
+  },
+  {
+    "god": "gilgamesh",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_gilgamesh"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_gilgamesh_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_gilgamesh_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_gilgamesh_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_gilgamesh_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_gilgamesh_skin7"
+      }
+    ]
+  },
+  {
+    "god": "god72",
+    "image": null,
+    "skin": [
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_god72_skin10"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_god72_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_god72_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_god72_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_god72_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_god72_skin7"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_god72_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "god84",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_god84"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_god84_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_god84_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_god84_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_god84_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_god84_skin6"
+      }
+    ]
+  },
+  {
+    "god": "god94",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_god94"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_god94_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_god94_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_god94_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_god94_skin6"
+      }
+    ]
+  },
+  {
+    "god": "god95",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_god95"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_god95_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_god95_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_god95_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_god95_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_god95_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_god95_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_god95_skin8"
+      }
+    ]
+  },
+  {
+    "god": "guanyu",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_guanyu"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_guanyu_skin4"
+      },
+      {
+        "name": "v2_skin5",
+        "image": null,
+        "folder": "vgs_guanyu_v2_skin5"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_guanyu_v2_skin6"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_guanyu_v2_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_guanyu_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_guanyu_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "hachiman",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_hachiman"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_hachiman_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_hachiman_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_hachiman_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_hachiman_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_hachiman_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_hachiman_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_hachiman_skin8"
+      }
+    ]
+  },
+  {
+    "god": "hades",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_hades"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_hades_skin11"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_hades_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_hades_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_hades_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_hades_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_hades_skin9"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_hades_v2_skin13"
+      },
+      {
+        "name": "v2_skin5",
+        "image": null,
+        "folder": "vgs_hades_v2_skin5"
+      },
+      {
+        "name": "v3_skin10",
+        "image": null,
+        "folder": "vgs_hades_v3_skin10"
+      },
+      {
+        "name": "v4_skin12",
+        "image": null,
+        "folder": "vgs_hades_v4_skin12"
+      },
+      {
+        "name": "v5_skin14",
+        "image": null,
+        "folder": "vgs_hades_v5_skin14"
+      }
+    ]
+  },
+  {
+    "god": "hebo",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_hebo"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_hebo_skin4"
+      },
+      {
+        "name": "v2",
+        "image": null,
+        "folder": "vgs_hebo_v2"
+      },
+      {
+        "name": "v2_skin5",
+        "image": null,
+        "folder": "vgs_hebo_v2_skin5"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_hebo_v2_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_hebo_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_hebo_v2_skin9"
+      },
+      {
+        "name": "v3_skin6",
+        "image": null,
+        "folder": "vgs_hebo_v3_skin6"
+      },
+      {
+        "name": "v4_skin10",
+        "image": null,
+        "folder": "vgs_hebo_v4_skin10"
+      },
+      {
+        "name": "v5_skin11",
+        "image": null,
+        "folder": "vgs_hebo_v5_skin11"
+      }
+    ]
+  },
+  {
+    "god": "heimdallr",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_heimdallr"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_heimdallr_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_heimdallr_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_heimdallr_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_heimdallr_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_heimdallr_skin6"
+      }
+    ]
+  },
+  {
+    "god": "hel",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_hel"
+      },
+      {
+        "name": "v3_skin3",
+        "image": null,
+        "folder": "vgs_hel_v3_skin3"
+      },
+      {
+        "name": "v3_skin4",
+        "image": null,
+        "folder": "vgs_hel_v3_skin4"
+      },
+      {
+        "name": "v3_skin5",
+        "image": null,
+        "folder": "vgs_hel_v3_skin5"
+      },
+      {
+        "name": "v4_skin11",
+        "image": null,
+        "folder": "vgs_hel_v4_skin11"
+      },
+      {
+        "name": "v4_skin6",
+        "image": null,
+        "folder": "vgs_hel_v4_skin6"
+      },
+      {
+        "name": "v4_skin7",
+        "image": null,
+        "folder": "vgs_hel_v4_skin7"
+      },
+      {
+        "name": "v4_skin8",
+        "image": null,
+        "folder": "vgs_hel_v4_skin8"
+      },
+      {
+        "name": "v4_skin9",
+        "image": null,
+        "folder": "vgs_hel_v4_skin9"
+      },
+      {
+        "name": "v5_skin10",
+        "image": null,
+        "folder": "vgs_hel_v5_skin10"
+      }
+    ]
+  },
+  {
+    "god": "hera",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_hera"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_hera_skin10"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_hera_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_hera_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_hera_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_hera_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_hera_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_hera_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_hera_skin9"
+      }
+    ]
+  },
+  {
+    "god": "hercules",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_hercules"
+      },
+      {
+        "name": "skin1",
+        "image": null,
+        "folder": "vgs_hercules_skin1"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_hercules_skin10"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_hercules_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_hercules_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_hercules_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_hercules_skin15"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_hercules_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_hercules_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_hercules_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_hercules_skin6"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_hercules_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_hercules_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "horus",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_horus"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_horus_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_horus_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_horus_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_horus_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_horus_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_horus_skin7"
+      }
+    ]
+  },
+  {
+    "god": "houyi",
+    "image": null,
+    "skin": [
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_houyi_skin6"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_houyi_skin9"
+      }
+    ]
+  },
+  {
+    "god": "hou",
+    "image": null,
+    "skin": [
+      {
+        "name": "yi",
+        "image": null,
+        "folder": "vgs_hou_yi"
+      },
+      {
+        "name": "yi_skin10",
+        "image": null,
+        "folder": "vgs_hou_yi_skin10"
+      },
+      {
+        "name": "yi_skin11",
+        "image": null,
+        "folder": "vgs_hou_yi_skin11"
+      },
+      {
+        "name": "yi_skin13",
+        "image": null,
+        "folder": "vgs_hou_yi_skin13"
+      },
+      {
+        "name": "yi_skin14",
+        "image": null,
+        "folder": "vgs_hou_yi_skin14"
+      },
+      {
+        "name": "yi_skin15",
+        "image": null,
+        "folder": "vgs_hou_yi_skin15"
+      },
+      {
+        "name": "yi_skin16",
+        "image": null,
+        "folder": "vgs_hou_yi_skin16"
+      },
+      {
+        "name": "yi_skin2",
+        "image": null,
+        "folder": "vgs_hou_yi_skin2"
+      },
+      {
+        "name": "yi_skin3",
+        "image": null,
+        "folder": "vgs_hou_yi_skin3"
+      },
+      {
+        "name": "yi_skin4",
+        "image": null,
+        "folder": "vgs_hou_yi_skin4"
+      },
+      {
+        "name": "yi_skin7",
+        "image": null,
+        "folder": "vgs_hou_yi_skin7"
+      },
+      {
+        "name": "yi_v2_skin12",
+        "image": null,
+        "folder": "vgs_hou_yi_v2_skin12"
+      },
+      {
+        "name": "yi_v4_skin17",
+        "image": null,
+        "folder": "vgs_hou_yi_v4_skin17"
+      },
+      {
+        "name": "yi_v4_skin18",
+        "image": null,
+        "folder": "vgs_hou_yi_v4_skin18"
+      }
+    ]
+  },
+  {
+    "god": "hunbatz",
+    "image": null,
+    "skin": [
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_hunbatz_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_hunbatz_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_hunbatz_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_hunbatz_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_hunbatz_skin9"
+      }
+    ]
+  },
+  {
+    "god": "ishtar",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ishtar"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_ishtar_skin4"
+      }
+    ]
+  },
+  {
+    "god": "isis",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_isis"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_isis_skin2"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_isis_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_isis_skin6"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_isis_v2_skin10"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_isis_v2_skin8"
+      }
+    ]
+  },
+  {
+    "god": "ixchel",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ixchel"
+      }
+    ]
+  },
+  {
+    "god": "izanami",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_izanami"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_izanami_skin10"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_izanami_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_izanami_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_izanami_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_izanami_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_izanami_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_izanami_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_izanami_skin9"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_izanami_v2_skin11"
+      },
+      {
+        "name": "v3_skin12",
+        "image": null,
+        "folder": "vgs_izanami_v3_skin12"
+      },
+      {
+        "name": "v4_skin13",
+        "image": null,
+        "folder": "vgs_izanami_v4_skin13"
+      }
+    ]
+  },
+  {
+    "god": "janus",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_janus"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_janus_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_janus_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_janus_skin13"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_janus_skin2"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_janus_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_janus_skin6"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_janus_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_janus_skin9"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_janus_v2_skin10"
+      },
+      {
+        "name": "v3_skin14",
+        "image": null,
+        "folder": "vgs_janus_v3_skin14"
+      }
+    ]
+  },
+  {
+    "god": "jingwei",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_jingwei"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_jingwei_skin10"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_jingwei_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_jingwei_skin14"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_jingwei_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_jingwei_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_jingwei_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_jingwei_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_jingwei_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_jingwei_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_jingwei_skin9"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_jingwei_v2_skin11"
+      }
+    ]
+  },
+  {
+    "god": "jorm",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_jorm"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_jorm_skin10"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_jorm_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_jorm_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_jorm_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_jorm_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_jorm_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_jorm_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_jorm_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_jorm_skin9"
+      }
+    ]
+  },
+  {
+    "god": "kali",
+    "image": null,
+    "skin": [
+      {
+        "name": "v2",
+        "image": null,
+        "folder": "vgs_kali_v2"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_kali_v2_skin10"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_kali_v2_skin11"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_kali_v2_skin13"
+      },
+      {
+        "name": "v2_skin5",
+        "image": null,
+        "folder": "vgs_kali_v2_skin5"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_kali_v2_skin6"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_kali_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_kali_v2_skin9"
+      },
+      {
+        "name": "v3_skin12",
+        "image": null,
+        "folder": "vgs_kali_v3_skin12"
+      }
+    ]
+  },
+  {
+    "god": "khepri",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_khepri"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_khepri_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_khepri_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_khepri_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_khepri_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_khepri_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_khepri_skin15"
+      },
+      {
+        "name": "skin16",
+        "image": null,
+        "folder": "vgs_khepri_skin16"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_khepri_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_khepri_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_khepri_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_khepri_skin6"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_khepri_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_khepri_skin9"
+      }
+    ]
+  },
+  {
+    "god": "kukulkan",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_kukulkan"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_kukulkan_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_kukulkan_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_kukulkan_skin12"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_kukulkan_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_kukulkan_skin15"
+      },
+      {
+        "name": "skin16",
+        "image": null,
+        "folder": "vgs_kukulkan_skin16"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_kukulkan_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_kukulkan_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_kukulkan_skin5"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_kukulkan_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_kukulkan_skin8"
+      },
+      {
+        "name": "v3_skin9",
+        "image": null,
+        "folder": "vgs_kukulkan_v3_skin9"
+      },
+      {
+        "name": "v4_skin13",
+        "image": null,
+        "folder": "vgs_kukulkan_v4_skin13"
+      },
+      {
+        "name": "v5_skin18",
+        "image": null,
+        "folder": "vgs_kukulkan_v5_skin18"
+      },
+      {
+        "name": "v5_skin20",
+        "image": null,
+        "folder": "vgs_kukulkan_v5_skin20"
+      },
+      {
+        "name": "v6_skin21",
+        "image": null,
+        "folder": "vgs_kukulkan_v6_skin21"
+      }
+    ]
+  },
+  {
+    "god": "kumbhakarna",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_kumbhakarna"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_kumbhakarna_skin10"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_kumbhakarna_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_kumbhakarna_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_kumbhakarna_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_kumbhakarna_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_kumbhakarna_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_kumbhakarna_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_kumbhakarna_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_kumbhakarna_skin9"
+      }
+    ]
+  },
+  {
+    "god": "kuzenbo",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_kuzenbo"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_kuzenbo_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_kuzenbo_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_kuzenbo_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_kuzenbo_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_kuzenbo_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_kuzenbo_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "lancelot",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_lancelot"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_lancelot_skin3"
+      }
+    ]
+  },
+  {
+    "god": "loki",
+    "image": null,
+    "skin": [
+      {
+        "name": "v2",
+        "image": null,
+        "folder": "vgs_loki_v2"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_loki_v2_skin10"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_loki_v2_skin12"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_loki_v2_skin13"
+      },
+      {
+        "name": "v2_skin14",
+        "image": null,
+        "folder": "vgs_loki_v2_skin14"
+      },
+      {
+        "name": "v2_skin15",
+        "image": null,
+        "folder": "vgs_loki_v2_skin15"
+      },
+      {
+        "name": "v2_skin21",
+        "image": null,
+        "folder": "vgs_loki_v2_skin21"
+      },
+      {
+        "name": "v2_skin3",
+        "image": null,
+        "folder": "vgs_loki_v2_skin3"
+      },
+      {
+        "name": "v2_skin4",
+        "image": null,
+        "folder": "vgs_loki_v2_skin4"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_loki_v2_skin6"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_loki_v2_skin9"
+      },
+      {
+        "name": "v3_skin16",
+        "image": null,
+        "folder": "vgs_loki_v3_skin16"
+      },
+      {
+        "name": "v4_skin20",
+        "image": null,
+        "folder": "vgs_loki_v4_skin20"
+      }
+    ]
+  },
+  {
+    "god": "martichoras",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_martichoras"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_martichoras_skin3"
+      }
+    ]
+  },
+  {
+    "god": "maui",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_maui"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_maui_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_maui_skin4"
+      }
+    ]
+  },
+  {
+    "god": "medusa",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_medusa"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_medusa_skin11"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_medusa_skin13"
+      },
+      {
+        "name": "skin20",
+        "image": null,
+        "folder": "vgs_medusa_skin20"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_medusa_skin3"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_medusa_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_medusa_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_medusa_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_medusa_skin9"
+      },
+      {
+        "name": "v2_skin14",
+        "image": null,
+        "folder": "vgs_medusa_v2_skin14"
+      },
+      {
+        "name": "v2_skin18",
+        "image": null,
+        "folder": "vgs_medusa_v2_skin18"
+      },
+      {
+        "name": "v2_skin4",
+        "image": null,
+        "folder": "vgs_medusa_v2_skin4"
+      },
+      {
+        "name": "v3_skin10",
+        "image": null,
+        "folder": "vgs_medusa_v3_skin10"
+      },
+      {
+        "name": "v3_skin19",
+        "image": null,
+        "folder": "vgs_medusa_v3_skin19"
+      },
+      {
+        "name": "v4_skin15",
+        "image": null,
+        "folder": "vgs_medusa_v4_skin15"
+      }
+    ]
+  },
+  {
+    "god": "mercury",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_mercury"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_mercury_skin10"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_mercury_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_mercury_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_mercury_skin4"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_mercury_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_mercury_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_mercury_v2_skin9"
+      },
+      {
+        "name": "v3_skin11",
+        "image": null,
+        "folder": "vgs_mercury_v3_skin11"
+      },
+      {
+        "name": "v3_skin14",
+        "image": null,
+        "folder": "vgs_mercury_v3_skin14"
+      },
+      {
+        "name": "v4_skin12",
+        "image": null,
+        "folder": "vgs_mercury_v4_skin12"
+      }
+    ]
+  },
+  {
+    "god": "merlin",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_merlin"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_merlin_skin10"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_merlin_skin12"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_merlin_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_merlin_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_merlin_skin4"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_merlin_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_merlin_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_merlin_skin9"
+      },
+      {
+        "name": "v2_skin5",
+        "image": null,
+        "folder": "vgs_merlin_v2_skin5"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_merlin_v2_skin6"
+      }
+    ]
+  },
+  {
+    "god": "monkey",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_monkey"
+      }
+    ]
+  },
+  {
+    "god": "morganlefay",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_morganlefay"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_morganlefay_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_morganlefay_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_morganlefay_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_morganlefay_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_morganlefay_v2_skin8"
+      }
+    ]
+  },
+  {
+    "god": "mulan",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_mulan"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_mulan_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_mulan_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_mulan_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_mulan_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_mulan_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_mulan_skin8"
+      }
+    ]
+  },
+  {
+    "god": "neith",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_neith"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_neith_skin10"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_neith_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_neith_skin13"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_neith_skin15"
+      },
+      {
+        "name": "skin18",
+        "image": null,
+        "folder": "vgs_neith_skin18"
+      },
+      {
+        "name": "skin19",
+        "image": null,
+        "folder": "vgs_neith_skin19"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_neith_skin2"
+      },
+      {
+        "name": "skin20",
+        "image": null,
+        "folder": "vgs_neith_skin20"
+      },
+      {
+        "name": "skin22",
+        "image": null,
+        "folder": "vgs_neith_skin22"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_neith_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_neith_skin4"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_neith_skin7"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_neith_v2_skin11"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_neith_v2_skin9"
+      },
+      {
+        "name": "v3_skin17",
+        "image": null,
+        "folder": "vgs_neith_v3_skin17"
+      },
+      {
+        "name": "v4_skin23",
+        "image": null,
+        "folder": "vgs_neith_v4_skin23"
+      },
+      {
+        "name": "v4_skin24",
+        "image": null,
+        "folder": "vgs_neith_v4_skin24"
+      }
+    ]
+  },
+  {
+    "god": "nemesis",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_nemesis"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_nemesis_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_nemesis_skin11"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_nemesis_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_nemesis_skin14"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_nemesis_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_nemesis_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_nemesis_skin5"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_nemesis_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_nemesis_skin9"
+      },
+      {
+        "name": "v2_skin15",
+        "image": null,
+        "folder": "vgs_nemesis_v2_skin15"
+      },
+      {
+        "name": "v2_skin17",
+        "image": null,
+        "folder": "vgs_nemesis_v2_skin17"
+      },
+      {
+        "name": "v2_skin18",
+        "image": null,
+        "folder": "vgs_nemesis_v2_skin18"
+      }
+    ]
+  },
+  {
+    "god": "nezha",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_nezha"
+      },
+      {
+        "name": "v2_skin3",
+        "image": null,
+        "folder": "vgs_nezha_v2_skin3"
+      },
+      {
+        "name": "v2_skin4",
+        "image": null,
+        "folder": "vgs_nezha_v2_skin4"
+      },
+      {
+        "name": "v2_skin5",
+        "image": null,
+        "folder": "vgs_nezha_v2_skin5"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_nezha_v2_skin6"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_nezha_v2_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_nezha_v2_skin8"
+      }
+    ]
+  },
+  {
+    "god": "nike",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_nike"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_nike_skin10"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_nike_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_nike_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_nike_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_nike_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_nike_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_nike_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_nike_skin9"
+      }
+    ]
+  },
+  {
+    "god": "nox",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_nox"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_nox_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_nox_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_nox_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_nox_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_nox_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_nox_skin15"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_nox_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_nox_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_nox_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_nox_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_nox_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_nox_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_nox_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_nox_skin9"
+      }
+    ]
+  },
+  {
+    "god": "nuwa",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_nuwa"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_nuwa_skin8"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_nuwa_v2_skin10"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_nuwa_v2_skin11"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_nuwa_v2_skin12"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_nuwa_v2_skin13"
+      },
+      {
+        "name": "v2_skin14",
+        "image": null,
+        "folder": "vgs_nuwa_v2_skin14"
+      },
+      {
+        "name": "v2_skin3",
+        "image": null,
+        "folder": "vgs_nuwa_v2_skin3"
+      },
+      {
+        "name": "v2_skin4",
+        "image": null,
+        "folder": "vgs_nuwa_v2_skin4"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_nuwa_v2_skin6"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_nuwa_v2_skin7"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_nuwa_v2_skin9"
+      },
+      {
+        "name": "v4_skin15",
+        "image": null,
+        "folder": "vgs_nuwa_v4_skin15"
+      },
+      {
+        "name": "v4_skin16",
+        "image": null,
+        "folder": "vgs_nuwa_v4_skin16"
+      },
+      {
+        "name": "v4_skin17",
+        "image": null,
+        "folder": "vgs_nuwa_v4_skin17"
+      },
+      {
+        "name": "v4_skin18",
+        "image": null,
+        "folder": "vgs_nuwa_v4_skin18"
+      },
+      {
+        "name": "v4_skin20",
+        "image": null,
+        "folder": "vgs_nuwa_v4_skin20"
+      },
+      {
+        "name": "v5_skin21",
+        "image": null,
+        "folder": "vgs_nuwa_v5_skin21"
+      }
+    ]
+  },
+  {
+    "god": "odin",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_odin"
+      },
+      {
+        "name": "mmskin1",
+        "image": null,
+        "folder": "vgs_odin_mmskin1"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_odin_v2_skin10"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_odin_v2_skin11"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_odin_v2_skin12"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_odin_v2_skin13"
+      },
+      {
+        "name": "v2_skin14",
+        "image": null,
+        "folder": "vgs_odin_v2_skin14"
+      },
+      {
+        "name": "v2_skin3",
+        "image": null,
+        "folder": "vgs_odin_v2_skin3"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_odin_v2_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_odin_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_odin_v2_skin9"
+      },
+      {
+        "name": "v3_skin5",
+        "image": null,
+        "folder": "vgs_odin_v3_skin5"
+      },
+      {
+        "name": "v4_skin15",
+        "image": null,
+        "folder": "vgs_odin_v4_skin15"
+      },
+      {
+        "name": "v4_skin16",
+        "image": null,
+        "folder": "vgs_odin_v4_skin16"
+      }
+    ]
+  },
+  {
+    "god": "olorun",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_olorun"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_olorun_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_olorun_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_olorun_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_olorun_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_olorun_skin6"
+      }
+    ]
+  },
+  {
+    "god": "osiris",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_osiris"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_osiris_skin11"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_osiris_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_osiris_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_osiris_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_osiris_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_osiris_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_osiris_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_osiris_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "pele",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_pele"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_pele_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_pele_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_pele_skin12"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_pele_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_pele_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_pele_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_pele_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_pele_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_pele_skin7"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_pele_v2_skin9"
+      },
+      {
+        "name": "v3_skin13",
+        "image": null,
+        "folder": "vgs_pele_v3_skin13"
+      }
+    ]
+  },
+  {
+    "god": "persephone",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_persephone"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_persephone_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_persephone_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_persephone_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_persephone_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_persephone_skin6"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_persephone_skin8"
+      }
+    ]
+  },
+  {
+    "god": "poseidon",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_poseidon"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_poseidon_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_poseidon_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_poseidon_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_poseidon_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_poseidon_skin15"
+      },
+      {
+        "name": "skin16",
+        "image": null,
+        "folder": "vgs_poseidon_skin16"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_poseidon_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_poseidon_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_poseidon_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_poseidon_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_poseidon_skin7"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_poseidon_skin9"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_poseidon_v2_skin8"
+      },
+      {
+        "name": "v3_skin10",
+        "image": null,
+        "folder": "vgs_poseidon_v3_skin10"
+      },
+      {
+        "name": "v4_skin17",
+        "image": null,
+        "folder": "vgs_poseidon_v4_skin17"
+      }
+    ]
+  },
+  {
+    "god": "raijin",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_raijin"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_raijin_skin2"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_raijin_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_raijin_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_raijin_skin7"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_raijin_v2_skin10"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_raijin_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_raijin_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "rama",
+    "image": null,
+    "skin": [
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_rama_skin12"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_rama_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_rama_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_rama_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_rama_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_rama_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_rama_skin9"
+      }
+    ]
+  },
+  {
+    "god": "ram",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ram"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_ram_skin2"
+      }
+    ]
+  },
+  {
+    "god": "ratatoskr",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ratatoskr"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_ratatoskr_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_ratatoskr_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_ratatoskr_skin13"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_ratatoskr_skin2"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_ratatoskr_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_ratatoskr_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_ratatoskr_skin6"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_ratatoskr_v2_skin10"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_ratatoskr_v2_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_ratatoskr_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_ratatoskr_v2_skin9"
+      },
+      {
+        "name": "v3_skin14",
+        "image": null,
+        "folder": "vgs_ratatoskr_v3_skin14"
+      }
+    ]
+  },
+  {
+    "god": "ravana",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ravana"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_ravana_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_ravana_skin3"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_ravana_skin6"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_ravana_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_ravana_skin9"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_ravana_v2_skin7"
+      }
+    ]
+  },
+  {
+    "god": "ra",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ra"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_ra_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_ra_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_ra_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_ra_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_ra_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_ra_skin15"
+      },
+      {
+        "name": "skin16",
+        "image": null,
+        "folder": "vgs_ra_skin16"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_ra_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_ra_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_ra_skin7"
+      },
+      {
+        "name": "v3_skin8",
+        "image": null,
+        "folder": "vgs_ra_v3_skin8"
+      },
+      {
+        "name": "v4_skin17",
+        "image": null,
+        "folder": "vgs_ra_v4_skin17"
+      },
+      {
+        "name": "v5_skin19",
+        "image": null,
+        "folder": "vgs_ra_v5_skin19"
+      },
+      {
+        "name": "v5_skin20",
+        "image": null,
+        "folder": "vgs_ra_v5_skin20"
+      }
+    ]
+  },
+  {
+    "god": "scylla",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_scylla"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_scylla_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_scylla_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_scylla_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_scylla_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_scylla_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_scylla_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_scylla_skin9"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_scylla_v2_skin10"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_scylla_v2_skin12"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_scylla_v2_skin13"
+      },
+      {
+        "name": "v2_skin15",
+        "image": null,
+        "folder": "vgs_scylla_v2_skin15"
+      },
+      {
+        "name": "v2_skin16",
+        "image": null,
+        "folder": "vgs_scylla_v2_skin16"
+      },
+      {
+        "name": "v2_skin19",
+        "image": null,
+        "folder": "vgs_scylla_v2_skin19"
+      },
+      {
+        "name": "v2_skin20",
+        "image": null,
+        "folder": "vgs_scylla_v2_skin20"
+      },
+      {
+        "name": "v3_skin14",
+        "image": null,
+        "folder": "vgs_scylla_v3_skin14"
+      },
+      {
+        "name": "v4_skin17",
+        "image": null,
+        "folder": "vgs_scylla_v4_skin17"
+      }
+    ]
+  },
+  {
+    "god": "serqet",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_serqet"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_serqet_skin10"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_serqet_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_serqet_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_serqet_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_serqet_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_serqet_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_serqet_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_serqet_skin9"
+      }
+    ]
+  },
+  {
+    "god": "set",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_set"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_set_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_set_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_set_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_set_skin5"
+      }
+    ]
+  },
+  {
+    "god": "shiva",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_shiva"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_shiva_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_shiva_skin4"
+      }
+    ]
+  },
+  {
+    "god": "skadi",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_skadi"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_skadi_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_skadi_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_skadi_skin12"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_skadi_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_skadi_skin15"
+      },
+      {
+        "name": "skin17",
+        "image": null,
+        "folder": "vgs_skadi_skin17"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_skadi_skin2"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_skadi_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_skadi_skin5"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_skadi_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_skadi_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_skadi_skin9"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_skadi_v2_skin13"
+      }
+    ]
+  },
+  {
+    "god": "sobek",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_sobek"
+      },
+      {
+        "name": "highseas",
+        "image": null,
+        "folder": "vgs_sobek_highseas"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_sobek_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_sobek_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_sobek_skin6"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_sobek_v2_skin12"
+      },
+      {
+        "name": "v2_skin13",
+        "image": null,
+        "folder": "vgs_sobek_v2_skin13"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_sobek_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_sobek_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "sol",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_sol"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_sol_skin2"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_sol_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_sol_skin6"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_sol_v2_skin11"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_sol_v2_skin12"
+      },
+      {
+        "name": "v2_skin14",
+        "image": null,
+        "folder": "vgs_sol_v2_skin14"
+      },
+      {
+        "name": "v2_skin15",
+        "image": null,
+        "folder": "vgs_sol_v2_skin15"
+      },
+      {
+        "name": "v2_skin16",
+        "image": null,
+        "folder": "vgs_sol_v2_skin16"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_sol_v2_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_sol_v2_skin8"
+      },
+      {
+        "name": "v3_skin9",
+        "image": null,
+        "folder": "vgs_sol_v3_skin9"
+      },
+      {
+        "name": "v4_skin13",
+        "image": null,
+        "folder": "vgs_sol_v4_skin13"
+      }
+    ]
+  },
+  {
+    "god": "sunwukong",
+    "image": null,
+    "skin": [
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_sunwukong_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_sunwukong_skin12"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_sunwukong_skin2"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_sunwukong_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_sunwukong_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_sunwukong_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_sunwukong_skin8"
+      },
+      {
+        "name": "v3_skin9",
+        "image": null,
+        "folder": "vgs_sunwukong_v3_skin9"
+      }
+    ]
+  },
+  {
+    "god": "surtr",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_surtr"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_surtr_skin4"
+      }
+    ]
+  },
+  {
+    "god": "susano",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_susano"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_susano_skin10"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_susano_skin15"
+      },
+      {
+        "name": "skin16",
+        "image": null,
+        "folder": "vgs_susano_skin16"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_susano_skin2"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_susano_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_susano_skin6"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_susano_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_susano_skin9"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_susano_v2_skin11"
+      },
+      {
+        "name": "v3_skin13",
+        "image": null,
+        "folder": "vgs_susano_v3_skin13"
+      }
+    ]
+  },
+  {
+    "god": "sylvanus",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_sylvanus"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_sylvanus_skin2"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_sylvanus_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_sylvanus_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_sylvanus_skin7"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_sylvanus_skin9"
+      },
+      {
+        "name": "v2_skin3",
+        "image": null,
+        "folder": "vgs_sylvanus_v2_skin3"
+      },
+      {
+        "name": "v4_skin8",
+        "image": null,
+        "folder": "vgs_sylvanus_v4_skin8"
+      }
+    ]
+  },
+  {
+    "god": "terra",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_terra"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_terra_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_terra_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_terra_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_terra_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_terra_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_terra_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_terra_skin9"
+      }
+    ]
+  },
+  {
+    "god": "thanatos",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_thanatos"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_thanatos_skin11"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_thanatos_skin14"
+      },
+      {
+        "name": "skin18",
+        "image": null,
+        "folder": "vgs_thanatos_skin18"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_thanatos_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_thanatos_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_thanatos_skin5"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_thanatos_skin9"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_thanatos_v2_skin7"
+      },
+      {
+        "name": "v3_skin8",
+        "image": null,
+        "folder": "vgs_thanatos_v3_skin8"
+      },
+      {
+        "name": "v4_skin10",
+        "image": null,
+        "folder": "vgs_thanatos_v4_skin10"
+      },
+      {
+        "name": "v4_skin12",
+        "image": null,
+        "folder": "vgs_thanatos_v4_skin12"
+      },
+      {
+        "name": "v5_skin16",
+        "image": null,
+        "folder": "vgs_thanatos_v5_skin16"
+      },
+      {
+        "name": "v6_skin15",
+        "image": null,
+        "folder": "vgs_thanatos_v6_skin15"
+      },
+      {
+        "name": "v6_skin17",
+        "image": null,
+        "folder": "vgs_thanatos_v6_skin17"
+      },
+      {
+        "name": "v7_skin20",
+        "image": null,
+        "folder": "vgs_thanatos_v7_skin20"
+      }
+    ]
+  },
+  {
+    "god": "themorrigan",
+    "image": null,
+    "skin": [
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_themorrigan_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_themorrigan_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_themorrigan_skin9"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_themorrigan_v2_skin10"
+      }
+    ]
+  },
+  {
+    "god": "thor",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_thor"
+      },
+      {
+        "name": "skin1",
+        "image": null,
+        "folder": "vgs_thor_skin1"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_thor_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_thor_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_thor_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_thor_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_thor_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_thor_skin15"
+      },
+      {
+        "name": "skin16",
+        "image": null,
+        "folder": "vgs_thor_skin16"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_thor_skin7"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_thor_skin9"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_thor_v2_skin6"
+      },
+      {
+        "name": "v3_skin17",
+        "image": null,
+        "folder": "vgs_thor_v3_skin17"
+      }
+    ]
+  },
+  {
+    "god": "thoth",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_thoth"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_thoth_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_thoth_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_thoth_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_thoth_skin6"
+      },
+      {
+        "name": "v2_skin4",
+        "image": null,
+        "folder": "vgs_thoth_v2_skin4"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_thoth_v2_skin7"
+      }
+    ]
+  },
+  {
+    "god": "tiamat",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_tiamat"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_tiamat_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_tiamat_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_tiamat_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_tiamat_skin6"
+      }
+    ]
+  },
+  {
+    "god": "tsukuyomi",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_tsukuyomi"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_tsukuyomi_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_tsukuyomi_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_tsukuyomi_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_tsukuyomi_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_tsukuyomi_skin7"
+      }
+    ]
+  },
+  {
+    "god": "tyr",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_tyr"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_tyr_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_tyr_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_tyr_skin12"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_tyr_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_tyr_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_tyr_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_tyr_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_tyr_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_tyr_skin9"
+      }
+    ]
+  },
+  {
+    "god": "ullr",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ullr"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_ullr_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_ullr_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_ullr_skin4"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_ullr_skin6"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_ullr_v2_skin10"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_ullr_v2_skin11"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_ullr_v2_skin12"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_ullr_v2_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_ullr_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_ullr_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "vamana",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_vamana"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_vamana_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_vamana_skin5"
+      },
+      {
+        "name": "v2",
+        "image": null,
+        "folder": "vgs_vamana_v2"
+      },
+      {
+        "name": "v2_skin10",
+        "image": null,
+        "folder": "vgs_vamana_v2_skin10"
+      },
+      {
+        "name": "v2_skin7",
+        "image": null,
+        "folder": "vgs_vamana_v2_skin7"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_vamana_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_vamana_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "vulcan",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_vulcan"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_vulcan_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_vulcan_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_vulcan_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_vulcan_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_vulcan_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_vulcan_skin15"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_vulcan_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_vulcan_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_vulcan_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_vulcan_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_vulcan_skin9"
+      }
+    ]
+  },
+  {
+    "god": "xbalanque",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_xbalanque"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_xbalanque_skin10"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_xbalanque_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_xbalanque_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_xbalanque_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_xbalanque_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_xbalanque_skin15"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_xbalanque_skin5"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_xbalanque_skin8"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_xbalanque_skin9"
+      },
+      {
+        "name": "skins2",
+        "image": null,
+        "folder": "vgs_xbalanque_skins2"
+      }
+    ]
+  },
+  {
+    "god": "xingtian",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_xingtian"
+      },
+      {
+        "name": "skin10",
+        "image": null,
+        "folder": "vgs_xingtian_skin10"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_xingtian_skin2"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_xingtian_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_xingtian_skin6"
+      },
+      {
+        "name": "skin7",
+        "image": null,
+        "folder": "vgs_xingtian_skin7"
+      },
+      {
+        "name": "skin8",
+        "image": null,
+        "folder": "vgs_xingtian_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_xingtian_v2_skin9"
+      }
+    ]
+  },
+  {
+    "god": "yemoja",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_yemoja"
+      },
+      {
+        "name": "skin2",
+        "image": null,
+        "folder": "vgs_yemoja_skin2"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_yemoja_skin3"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_yemoja_skin4"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_yemoja_skin5"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_yemoja_skin6"
+      }
+    ]
+  },
+  {
+    "god": "ymir",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_ymir"
+      },
+      {
+        "name": "skin11",
+        "image": null,
+        "folder": "vgs_ymir_skin11"
+      },
+      {
+        "name": "skin12",
+        "image": null,
+        "folder": "vgs_ymir_skin12"
+      },
+      {
+        "name": "skin13",
+        "image": null,
+        "folder": "vgs_ymir_skin13"
+      },
+      {
+        "name": "skin14",
+        "image": null,
+        "folder": "vgs_ymir_skin14"
+      },
+      {
+        "name": "skin15",
+        "image": null,
+        "folder": "vgs_ymir_skin15"
+      },
+      {
+        "name": "skin6",
+        "image": null,
+        "folder": "vgs_ymir_skin6"
+      },
+      {
+        "name": "skin9",
+        "image": null,
+        "folder": "vgs_ymir_skin9"
+      },
+      {
+        "name": "v2_skin17",
+        "image": null,
+        "folder": "vgs_ymir_v2_skin17"
+      },
+      {
+        "name": "v2_skin18",
+        "image": null,
+        "folder": "vgs_ymir_v2_skin18"
+      },
+      {
+        "name": "v2_skin19",
+        "image": null,
+        "folder": "vgs_ymir_v2_skin19"
+      },
+      {
+        "name": "v2_skin21",
+        "image": null,
+        "folder": "vgs_ymir_v2_skin21"
+      },
+      {
+        "name": "v3_skin16",
+        "image": null,
+        "folder": "vgs_ymir_v3_skin16"
+      },
+      {
+        "name": "v3_skin20",
+        "image": null,
+        "folder": "vgs_ymir_v3_skin20"
+      },
+      {
+        "name": "v4_skin22",
+        "image": null,
+        "folder": "vgs_ymir_v4_skin22"
+      }
+    ]
+  },
+  {
+    "god": "yuhuang",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_yuhuang"
+      },
+      {
+        "name": "skin3",
+        "image": null,
+        "folder": "vgs_yuhuang_skin3"
+      },
+      {
+        "name": "skin5",
+        "image": null,
+        "folder": "vgs_yuhuang_skin5"
+      }
+    ]
+  },
+  {
+    "god": "zeus",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_zeus"
+      },
+      {
+        "name": "v2_skin11",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin11"
+      },
+      {
+        "name": "v2_skin12",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin12"
+      },
+      {
+        "name": "v2_skin14",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin14"
+      },
+      {
+        "name": "v2_skin15",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin15"
+      },
+      {
+        "name": "v2_skin16",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin16"
+      },
+      {
+        "name": "v2_skin17",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin17"
+      },
+      {
+        "name": "v2_skin18",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin18"
+      },
+      {
+        "name": "v2_skin19",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin19"
+      },
+      {
+        "name": "v2_skin20",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin20"
+      },
+      {
+        "name": "v2_skin21",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin21"
+      },
+      {
+        "name": "v2_skin6",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin6"
+      },
+      {
+        "name": "v2_skin8",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin8"
+      },
+      {
+        "name": "v2_skin9",
+        "image": null,
+        "folder": "vgs_zeus_v2_skin9"
+      },
+      {
+        "name": "v3_skin13",
+        "image": null,
+        "folder": "vgs_zeus_v3_skin13"
+      }
+    ]
+  },
+  {
+    "god": "zhongkui",
+    "image": null,
+    "skin": [
+      {
+        "name": "default",
+        "image": null,
+        "folder": "vgs_zhongkui"
+      },
+      {
+        "name": "skin4",
+        "image": null,
+        "folder": "vgs_zhongkui_skin4"
+      },
+      {
+        "name": "v2_skin2",
+        "image": null,
+        "folder": "vgs_zhongkui_v2_skin2"
+      },
+      {
+        "name": "v2_skin3",
+        "image": null,
+        "folder": "vgs_zhongkui_v2_skin3"
+      },
+      {
+        "name": "v4_skin5",
+        "image": null,
+        "folder": "vgs_zhongkui_v4_skin5"
+      },
+      {
+        "name": "v4_skin6",
+        "image": null,
+        "folder": "vgs_zhongkui_v4_skin6"
+      },
+      {
+        "name": "v4_skin7",
+        "image": null,
+        "folder": "vgs_zhongkui_v4_skin7"
+      }
+    ]
   }
 ]

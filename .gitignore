@@ -24,3 +24,12 @@ yarn-debug.log*
 yarn-error.log*
 
 .idea
+scripts/voicepack.json
+scripts/ExportOutput
+scripts/readme.txt
+scripts/SDL2.dll
+scripts/SDL2_64.dll
+scripts/umodel.exe
+scripts/umodel_64.exe
+scripts/LICENSE.txt
+scripts/notify.log
